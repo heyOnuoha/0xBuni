@@ -1,0 +1,30 @@
+{
+  "name": "0xBuni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyOnuoha/0xBuni.git"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "body-parser": "^1.19.2",
+    "chai-as-promised": "^7.1.1",
+    "truffle-plugin-verify": "^0.5.21"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyOnuoha/0xBuni/issues"
+  },
+  "homepage": "https://github.com/heyOnuoha/0xBuni#readme"
+}
